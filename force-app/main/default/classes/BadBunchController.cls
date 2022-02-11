@@ -18,7 +18,7 @@ public with sharing class BadBunchController {
     }
 
     return results;
-  }
+  };
 
   /**
    * Generates a number of accounts as JSON string
